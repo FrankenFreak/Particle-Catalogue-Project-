@@ -1,0 +1,3 @@
+Compile line: g++ -std=c++17 -g particle_catalogue_main.cpp fourMomentum.cpp particle.cpp lepton.cpp electron.cpp muon.cpp neutrino.cpp tau.cpp quark.cpp boson.cpp photon.cpp gluon.cpp Z.cpp W.cpp higgs.cpp -o particle_catalogue -fdiagnostics-color=always
+Repository link: https://github.com/UofM-PHYS30762/project-particle-catalogue-clive-marvel
+Release link: https://github.com/UofM-PHYS30762/project-particle-catalogue-clive-marvel/releases/tag/v4
